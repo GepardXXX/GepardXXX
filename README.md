@@ -28,7 +28,7 @@
 - 💻 Создание интерактивных веб-сайтов с использованием HTML, CSS и JavaScript.
 
 
-<div align="center"><img src="https://raw.githubusercontent.com/GepardXXX/GepardXXX/a85d8b9d5d4a2c694cd03d18aa9ed06fe3054cc7/github-snake.svg" alt=""/>
+<div align="center"><img src="https://raw.githubusercontent.com/GepardXXX/GepardXXX/main/github-snake.svg" alt=""/>
 </div>
 
 
