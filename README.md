@@ -21,11 +21,10 @@
 
 
 ### 👨‍💻 Обо мне
-Я - Python-разработчик с опытом создания ботов, различных программ и других интересных проектов. Также специализируюсь на разработке сайтов и веб-приложений, используя HTML, CSS и JavaScript.
+Я - опытный Python-разработчик с более чем 3 годами опыта. Мое призвание - создавать инновационные и эффективные решения с использованием программирования. С момента, когда я начал свой путь в IT, я страстно увлекаюсь разработкой и постоянно расширяю свои навыки.
 
 
-- 🤖 Разработка ботов для Telegram и других мессенджеров.
-- 💻 Создание интерактивных веб-сайтов с использованием HTML, CSS и JavaScript.
+
 
 
 <div align="center"><img src="https://raw.githubusercontent.com/GepardXXX/GepardXXX/main/github-snake.svg" alt=""/>
@@ -59,3 +58,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" title="Sass"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio" />
 </div>
+
+### ⚙️ GitHub статистика:
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GepardXXX" alt="GitHub Streak"/>
+  <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GepardXXX&layout=compact" alt="Top Langs"/>
+</div>
+
+
