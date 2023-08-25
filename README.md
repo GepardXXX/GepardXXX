@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="150"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://t.me/GepardXXX">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -10,59 +11,51 @@
   </a>
   <a href="https://vk.com/id376377529">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="vk"/>
-
   </a>
 </div>
+
+
 <div align="center"><img src="https://komarev.com/ghpvc/?username=GepardXXX&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="header" align="center">
-    <h2>Привет, меня зовут Захар!</h2>
-</div>
 
 
-### 👨‍💻 Обо мне
+### __👨‍💻 Обо мне__
 Я - опытный Python-разработчик с более чем 3 годами опыта. Мое призвание - создавать инновационные и эффективные решения с использованием программирования. С момента, когда я начал свой путь в IT, я страстно увлекаюсь разработкой и постоянно расширяю свои навыки.
-
-
-
-
 
 <div align="center"><img src="https://raw.githubusercontent.com/GepardXXX/GepardXXX/main/github-snake.svg" alt=""/>
 </div>
 
-
-#### 💻 Языки программирования:
+#### __💻 Языки__:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" title="markdown"/>
+
 </div>
 
-#### 🔧 Фреймворки:
+#### __🛠️ Инструменты__:
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" title="Flask"/>
-</div>
-
-#### 🗂️ Базы данных:
-<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" title="bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40" height="40" title="MongoDB"/>
-</div>
-
-#### 🛠️ Инструменты и другое:
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" title="Sass"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />
 </div>
 
-### ⚙️ GitHub статистика:
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GepardXXX" alt="GitHub Streak"/>
-  <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GepardXXX&layout=compact" alt="Top Langs"/>
-</div>
-
-
+### __⚙️ GitHub статистика__:
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://streak-stats.demolab.com/?user=GepardXXX&theme=dark" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GepardXXX&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
