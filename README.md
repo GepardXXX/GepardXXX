@@ -25,6 +25,10 @@
 - 💼  Мой опыт включает разработку ботов, веб-приложений, парсинг данных и многое другое.
 - 🌟 Я всегда стремлюсь к достижению высокого качества в своей работе
 
+<div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=16&pause=1000&color=1DA0F7&width=200&height=30&lines=Python-developer;Web+development;Data+and+analysis;Bots+and+automation;Innovative+solutions;Django+and+Flask" alt="Typing SVG" /></a>
+</div>
+
 <div align="center"><img src="https://raw.githubusercontent.com/GepardXXX/GepardXXX/main/github-snake.svg" alt=""/>
 </div>
 
@@ -50,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />
 </div>
 
+
+
 ### __⚙️ GitHub статистика__:
 <table>
   <tr>
@@ -61,3 +67,4 @@
     </td>
   </tr>
 </table>
+
