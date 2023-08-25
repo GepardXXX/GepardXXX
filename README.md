@@ -60,13 +60,13 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://streak-stats.demolab.com/?user=GepardXXX&theme=dark" alt="webDev's Github stats" />
+      <img align="left" src="https://streak-stats.demolab.com/?user=GepardXXX&theme=react" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GepardXXX&layout=compact&theme=dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GepardXXX&layout=compact&theme=react" />
     </td>
   </tr>
 </table>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GepardXXX&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GepardXXX&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
